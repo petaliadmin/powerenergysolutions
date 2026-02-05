@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+# Angular build
+/dist
+/dist-ssr
+/out-tsc
+/.angular
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+

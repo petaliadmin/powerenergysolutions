@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npx tsc:*)",
+      "Bash(del \"\\\\?\\\\c:\\\\Users\\\\a844699\\\\Downloads\\\\power-energy-site\\\\power-energy-site\\\\nul\")",
+      "Bash(cmd /c:*)",
+      "Bash(powershell:*)"
+    ]
+  }
+}
